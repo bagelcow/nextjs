@@ -17,7 +17,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-      𝗟𝗘𝗞𝗦.𝗚𝗚
+      <p>𝗟𝗘𝗞𝗦.𝗚𝗚</p>
       </footer>
     </div>
   )
