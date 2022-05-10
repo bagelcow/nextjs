@@ -4,14 +4,19 @@
 
 html,
 body {
+  background-color: rgb(49, 49, 49);
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+p {
+  color:bisque;
+}
+
 a {
-  color: #efd1ff;;
+  color: #b8fff9;
   text-decoration: none;
 }
 
