@@ -17,7 +17,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-      <a>𝗟𝗘𝗞𝗦.𝗚𝗚</a> © {new Date().getFullYear()}
+      <span><a>𝗟𝗘𝗞𝗦.𝗚𝗚</a> © {new Date().getFullYear()}</span>
       </footer>
     </div>
   )
