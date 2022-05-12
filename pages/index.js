@@ -15,7 +15,7 @@ export default function Home() {
       <main className={styles.main}>
         <p>Contact: <a href="mailto:hello@leks.gg">hello@leks.gg</a>
         </p>
-        <p>Discord: <span className={f}>Leks#3197</span></p>
+        <p>Discord: <span className={styles.f}>Leks#3197</span></p>
       </main>
     </div>
   )

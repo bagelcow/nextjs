@@ -12,6 +12,11 @@
   align-items: center;
 }
 
+.f {
+  color: #d6fff0;
+  text-decoration: none;
+}
+
 .description {
   text-align: center;
   margin: 4rem 0;
