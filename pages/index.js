@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
+
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -12,9 +13,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <p className={styles.description}>Contact: <a href="mailto:hello@leks.gg">hello@leks.gg</a>
+        <p>Contact: <a href="mailto:hello@leks.gg">hello@leks.gg</a>
         </p>
-        <p className={styles.description}>Discord: Leks#3197</p>
+        <p>Discord: <span className={f}>Leks#3197</span></p>
       </main>
     </div>
   )
