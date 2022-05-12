@@ -14,11 +14,8 @@ export default function Home() {
       <main className={styles.main}>
         <p className={styles.description}>Contact: <a href="mailto:hello@leks.gg">hello@leks.gg</a>
         </p>
+        <p className={styles.description}>Discord: Leks#3197</p>
       </main>
-
-      <footer className={styles.footer}>
-      <a>𝗟𝗘𝗞𝗦.𝗚𝗚 © {new Date().getFullYear()}</a>
-      </footer>
     </div>
   )
 }
