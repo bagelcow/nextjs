@@ -13,7 +13,7 @@ export default function Custom404() {
           </Head>
     
           <main className={styles.main}>
-            <p>Error 404<span className={styles.f}> | </span>Page Not Found</p>
+            <p>Error 404 <span className={styles.f}>Page Not Found</span></p>
           </main>
         </div>
       )
